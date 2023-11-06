@@ -46,7 +46,7 @@ local scale = {
 
 local colors = {
 	fg = "#f0f6fc",
-	bg = "#21262d",
+	bg = "#0E1116",
 	alt_fg = "#c9d1d9",
 	alt_bg = "#1c2229",
   cursorline = "#1c2229",
